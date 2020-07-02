@@ -1,0 +1,34 @@
+server:
+  port: 8081
+spring:
+  #配置spring data jpa
+  jpa:
+    #指定是否在spring容器启动时创建表，默认是false
+    generate-ddl: true
+    #在控制台是否显示sql语句，默认是false
+    show-sql: true
+    #指定应用重启后不重新更新表内容
+    hibernate:
+      ddl-auto: none
+  #配置数据源
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://aliyun:33306/springdb?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+
+
+#配置日志
+logging:
+  pattern:
+    console: level-%level %msg%
+  level:
+    root: debug
+    org.hibernate: info
+    # 以下两种设置的前提都是show-sql: true
+    # 显示动态参数值
+    org.hibernate.type.descriptor.sql.BasicBinder: trace
+    # 显示查询结果（如果是查询的话）
+    org.hibernate.type.descriptor.sql.BasicExtractor: trace
+    com.alibaba: debug

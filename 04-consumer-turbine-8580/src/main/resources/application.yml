@@ -1,0 +1,46 @@
+server:
+  port: 8580
+
+spring:
+  application:
+    name: depart-consumer-8580
+  main:
+    allow-bean-definition-overriding: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+  #eureka元数据信息
+  instance:
+    metadata-map:
+      cluster: group2 #自定义元数据
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 10000 #指定feign客户端连接提供者的超时时限
+        readTimeout: 10000 #指定feign客户端连接上提供者后，向提供者提交请求，从提交时刻开始到接收响应，这个时段的超时时限
+  #开始feign对hystrix的支持
+  hystrix:
+    enabled: true
+#负载均衡策略
+#depart-provider:
+#  ribbon:
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000
+
+#开启actuator的hystrix.stream监控终端
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream

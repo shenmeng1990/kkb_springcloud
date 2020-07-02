@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="00-hystrix-turbine-8888" />
+        <module name="04-consumer-dashboard-8080" />
+        <module name="00-hystrix-turbine-7777" />
+        <module name="04-consumer-turbine-8580" />
+        <module name="04-consumer-turbine-8280" />
+        <module name="01-consumer-8080" />
+        <module name="00-eurekaserver-8300" />
+        <module name="03-provider-8083" />
+        <module name="04-consumer-hytrix-fallbackmethod-8080 (1)" />
+        <module name="04-consumer-hytrix-fallbackfactory-8080" />
+        <module name="04-consumer-turbine-8380" />
+        <module name="04-consumer-turbine-8480" />
+        <module name="03-provider-8081" />
+        <module name="04-consumer-turbine-8680" />
+        <module name="04-consumer-hytrix-fallbackmethod-8080" />
+        <module name="03-provider-8081 (1)" />
+        <module name="02-consumer-8080" />
+        <module name="00-eurekaserver-8000" />
+        <module name="00-eurekaserver-8100" />
+        <module name="00-eurekaserver-8200" />
+        <module name="03-consumer-8080" />
+        <module name="04-consumer-turbine-8180" />
+        <module name="01-provider-8081" />
+        <module name="03-provider-8082" />
+        <module name="04-consumer-hytrix-fallbackfeign-8080" />
+        <module name="02-provider-8081" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="00-eurekaserver-8000" target="1.8" />
+      <module name="00-eurekaserver-8100" target="1.8" />
+      <module name="00-eurekaserver-8200" target="1.8" />
+      <module name="00-eurekaserver-8300" target="1.8" />
+      <module name="00-hystrix-turbine-7777" target="1.8" />
+      <module name="00-hystrix-turbine-8888" target="1.8" />
+      <module name="01-consumer-8080" target="1.8" />
+      <module name="01-provider-8081" target="1.8" />
+      <module name="02-consumer-8080" target="1.8" />
+      <module name="02-provider-8081" target="1.8" />
+      <module name="03-consumer-8080" target="1.8" />
+      <module name="03-provider-8081" target="1.8" />
+      <module name="03-provider-8081 (1)" target="1.8" />
+      <module name="03-provider-8082" target="1.8" />
+      <module name="03-provider-8083" target="1.8" />
+      <module name="04-consumer-dashboard-8080" target="1.8" />
+      <module name="04-consumer-hytrix-fallbackfactory-8080" target="1.8" />
+      <module name="04-consumer-hytrix-fallbackfeign-8080" target="1.8" />
+      <module name="04-consumer-hytrix-fallbackmethod-8080" target="1.8" />
+      <module name="04-consumer-hytrix-fallbackmethod-8080 (1)" target="1.8" />
+      <module name="04-consumer-turbine-8180" target="1.8" />
+      <module name="04-consumer-turbine-8280" target="1.8" />
+      <module name="04-consumer-turbine-8380" target="1.8" />
+      <module name="04-consumer-turbine-8480" target="1.8" />
+      <module name="04-consumer-turbine-8580" target="1.8" />
+      <module name="04-consumer-turbine-8680" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="00-eurekaserver-8000" options="-parameters" />
+      <module name="00-eurekaserver-8100" options="-parameters" />
+      <module name="00-eurekaserver-8200" options="-parameters" />
+      <module name="00-eurekaserver-8300" options="-parameters" />
+      <module name="00-hystrix-turbine-7777" options="-parameters" />
+      <module name="00-hystrix-turbine-8888" options="-parameters" />
+      <module name="01-consumer-8080" options="-parameters" />
+      <module name="01-provider-8081" options="-parameters" />
+      <module name="02-consumer-8080" options="-parameters" />
+      <module name="02-provider-8081" options="-parameters" />
+      <module name="03-consumer-8080" options="-parameters" />
+      <module name="03-provider-8081" options="-parameters" />
+      <module name="03-provider-8081 (1)" options="-parameters" />
+      <module name="03-provider-8082" options="-parameters" />
+      <module name="03-provider-8083" options="-parameters" />
+      <module name="04-consumer-dashboard-8080" options="-parameters" />
+      <module name="04-consumer-hytrix-fallbackfactory-8080" options="-parameters" />
+      <module name="04-consumer-hytrix-fallbackfeign-8080" options="-parameters" />
+      <module name="04-consumer-hytrix-fallbackmethod-8080" options="-parameters" />
+      <module name="04-consumer-hytrix-fallbackmethod-8080 (1)" options="-parameters" />
+      <module name="04-consumer-turbine-8180" options="-parameters" />
+      <module name="04-consumer-turbine-8280" options="-parameters" />
+      <module name="04-consumer-turbine-8380" options="-parameters" />
+      <module name="04-consumer-turbine-8480" options="-parameters" />
+      <module name="04-consumer-turbine-8580" options="-parameters" />
+      <module name="04-consumer-turbine-8680" options="-parameters" />
+    </option>
+  </component>
+</project>

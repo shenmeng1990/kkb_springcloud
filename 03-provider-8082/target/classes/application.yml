@@ -1,0 +1,67 @@
+server:
+  port: 8082
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://aliyun:33306/springdb?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+  application:
+    name: depart-provider
+
+
+#logging:
+#  pattern:
+#    console: level-%level %msg%
+#  level:
+#    #root: info
+#    org.hibernate: info
+#    org.hibernate.type.descriptor.sql.BasicBinder: trace
+#    org.hibernate.type.descriptor.sql.BasicExtractor: trace
+#    com.alibaba: debug
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://localhost:8100/eureka,http://localhost:8200/eureka,http://localhost:8300/eureka
+      defaultZone: http://localhost:8000/eureka
+  instance:
+    instance-id: demo-provider-8082
+#eureka:
+#  client:
+#    #指定区域名称
+#    region: xxx
+#    #指定区域中所包含的地带
+#    availability-zones:
+#      xxx: sm1, sm2
+#    service-url:
+#      #指定各个地带zone中所包含的eureka server地址
+#      sm1: http://localhost:8000/eureka
+#      sm2: http://localhost:8000/eureka
+#      #指定从哪个区域获取
+#    fetch-remote-regions-registry: xxx
+#  instance:
+#    #设置当前client每1秒向server发送一次心跳
+#    lease-renewal-interval-in-seconds: 1
+#    #指定让server认定当前client已经失效的时间，将来可以从注册表中剔除，单位是秒
+#    lease-expiration-duration-in-seconds: 3
+
+info:
+  auth: shenmeng
+  app.name: demo
+  company.name: alibaba
+management:
+  #开启所有监控终端
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  #开启shutdown监控，http://localhost:8081/actuator/shutdown 提交post请求，关闭应用
+  endpoint:
+    shutdown:
+      enabled: true

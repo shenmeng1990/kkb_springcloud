@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8100/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8200/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8200/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8300/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-eurekaserver-8300/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-hystrix-turbine-7777/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-hystrix-turbine-7777/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-hystrix-turbine-8888/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-hystrix-turbine-8888/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-consumer-8080" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-consumer-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-provider-8081" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-provider-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-provider-8081/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02-consumer-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-consumer-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-8081/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-consumer-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-consumer-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-8081/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-8082/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-8082/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-8083/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-8083/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-dashboard-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-dashboard-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-fallbackalarm-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-fallbackalarm-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-hytrix-fallbackfactory-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-hytrix-fallbackfactory-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-hytrix-fallbackfeign-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-hytrix-fallbackfeign-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-hytrix-fallbackmethod-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-hytrix-fallbackmethod-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8180/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8180/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8280/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8280/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8380/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8380/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8480/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8480/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8580/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8580/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8680/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-turbine-8680/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-provider-8081/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
