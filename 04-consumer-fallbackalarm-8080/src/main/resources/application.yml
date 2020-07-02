@@ -3,6 +3,10 @@ spring:
     name: consumer8080-1
   main:
     allow-bean-definition-overriding: true
+  redis:
+    host: centos
+    port: 16379
+    password: root
 eureka:
   client:
     service-url:

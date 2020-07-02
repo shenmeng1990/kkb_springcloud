@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alibaba</groupId>
-	<artifactId>03-provider-8081</artifactId>
+	<artifactId>04-provider-8081</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
