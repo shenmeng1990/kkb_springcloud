@@ -7,5 +7,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://centos:33306/springboot</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="aliyun" uuid="b7d3b7a6-4c5c-44c8-b7ef-8aeb9cf3b456">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://aliyun:33306/springdb</jdbc-url>
+    </data-source>
   </component>
 </project>

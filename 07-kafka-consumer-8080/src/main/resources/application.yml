@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: consumer8080-1
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+  #设置zipkin server
+  zipkin:
+    sender:
+      type: kafka
+  #设置采样比例为1.0 也就是全部采样
+  sleuth:
+    sampler:
+      probability: 1.0
+
+  kafka:
+    bootstrap-servers: kafkaos1:9092,kafkaos2:9092,kafkaos3:9092

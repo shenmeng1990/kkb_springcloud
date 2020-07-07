@@ -1,0 +1,16 @@
+server:
+  port: 9000
+eureka:
+  client:
+    service-url:
+      #当前Eureka Server对外暴露的服务地址
+      defaultZone: http://localhost:8000/eureka
+spring:
+  application:
+    name: depart-zuul
+zuul:
+  routes:
+    depart-consumer-zuul-8080: /abc8080/**
+    depart-consumer-zuul-8090: /abc8090/**
+    depart-consumer-zuul: /abc123/**
+  ignored-services: "*"

@@ -1,7 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="077bb5c5-2cfa-4e15-9d9b-eee805d5a34b" name="Default" comment="" />
+    <list default="true" id="077bb5c5-2cfa-4e15-9d9b-eee805d5a34b" name="Default" comment="11">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_marcosbarbero_cloud_spring_cloud_zuul_ratelimit_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_marcosbarbero_cloud_spring_cloud_zuul_ratelimit_core_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jmnarloch_ribbon_discovery_filter_spring_cloud_starter_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_50_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_50_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_50_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_context_slf4j_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_jms_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_streams_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_messaging_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_rpc_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_servlet_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_web_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_webmvc_5_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_brave_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_metrics_micrometer_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_activemq_client_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_21_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jodah_typetools_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_3_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_3_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_kafka_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_kafka_3_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_3_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_kafka_3_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_kafka_core_3_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_kafka_3_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-config-server-9999/00-config-server-9999.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-config-server-9999/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-config-server-9999/src/main/java/com/alibaba/ConfigServer9999Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-config-server-9999/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-config-server-9999/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-9000/00-zuul-9000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-9000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-9000/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-fallback-9000/00-zuul-fallback-9000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-fallback-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-fallback-9000/src/main/java/com/alibaba/ZuulFallback9000App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-fallback-9000/src/main/java/com/alibaba/fallback/ConsumerFallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-fallback-9000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-fallback-9000/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-filter-9000/00-zuul-filter-9000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-filter-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-filter-9000/src/main/java/com/alibaba/ZuulFilter9000App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-filter-9000/src/main/java/com/alibaba/filter/RouteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-filter-9000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-filter-9000/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/00-zuul-graypublic-9000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/src/main/java/com/alibaba/ZuulGrayPublic9000App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/src/main/java/com/alibaba/filter/GrayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/src/main/java/com/alibaba/filter/GrayFilter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-graypublic-9000/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/00-zuul-ratelimit-9000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/src/main/java/com/alibaba/ZuulRateLimit9000App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/src/main/java/com/alibaba/filter/RouteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/src/main/resources/public/error/429.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-ratelimit-9000/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-tokenbucket-9000/00-zuul-tokenbucket-9000.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-tokenbucket-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-tokenbucket-9000/src/main/java/com/alibaba/ZuulTokenBucket9000App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-tokenbucket-9000/src/main/java/com/alibaba/filter/RouteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-tokenbucket-9000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-zuul-tokenbucket-9000/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/05-consumer-zuul-8080.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/java/com/alibaba/ConsumerZuul8080Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8080/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/05-consumer-zuul-8090.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/java/com/alibaba/ConsumerZuul8090Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8090/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/05-consumer-zuul-8180.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/java/com/alibaba/ConsumerZuul8180Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8180/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/05-consumer-zuul-8280.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/java/com/alibaba/ConsumerZuul8280Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8280/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/05-consumer-zuul-8380.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/java/com/alibaba/ConsumerZuul8380Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-consumer-zuul-8380/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/06-bus-config-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/java/com/alibaba/ConfigBusConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-consumer/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/06-bus-config-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/ConfigProviderBusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/controller/DepartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/repository/DepartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/service/impl/DepartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-bus-config-provider/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/06-config-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/java/com/alibaba/ConfigConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-consumer/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-eurekaserver/06-config-eurekaserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-eurekaserver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-eurekaserver/src/main/java/com/alibaba/ConfigEurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-eurekaserver/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-eurekaserver/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/06-config-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/java/com/alibaba/ConfigProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/java/com/alibaba/controller/DepartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/java/com/alibaba/repository/DepartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/java/com/alibaba/service/impl/DepartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-config-provider/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/07-kafka-consumer-8080.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/java/com/alibaba/Consumer07KafkaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-consumer-8080/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/07-kafka-provider-8081.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/java/com/alibaba/Provider07KafkaApplication8081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/java/com/alibaba/controller/DepartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/java/com/alibaba/repository/DepartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/java/com/alibaba/service/impl/DepartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-kafka-provider-8081/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/07-sleuth-consumer-8080.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/java/com/alibaba/Consumer07SleuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-consumer-8080/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/07-sleuth-provider-8081.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/java/com/alibaba/Provider07SleuthApplication8081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/java/com/alibaba/controller/DepartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/java/com/alibaba/repository/DepartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/java/com/alibaba/service/impl/DepartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-sleuth-provider-8081/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/07-via-consumer-8080.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/java/com/alibaba/Consumer07ViaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/java/com/alibaba/balance/CustomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/java/com/alibaba/config/DepartConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-consumer-8080/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/07-via-provider-8081.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/java/com/alibaba/Provider07ViaApplication8081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/java/com/alibaba/controller/DepartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/java/com/alibaba/model/Depart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/java/com/alibaba/repository/DepartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/java/com/alibaba/service/DepartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/java/com/alibaba/service/impl/DepartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-via-provider-8081/src/test/java/com/alibaba/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springcloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springcloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/src/main/java/com/alibaba/Consumer04HystrixApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/src/main/java/com/alibaba/Consumer04AlarmApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/src/main/java/com/alibaba/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/src/main/java/com/alibaba/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/target/classes/com/alibaba/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-consumer-fallbackalarm-8080/target/classes/com/alibaba/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-provider-8081/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/04-provider-8081/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +289,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -33,13 +312,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1dhitpC7tplHcMdBCG7kBejI4CU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -48,19 +330,35 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/00-eurekaserver-8000" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/07-kafka-consumer-8080" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.43958575" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ProviderApplication">
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alibaba.filter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\springcloud" />
+      <recent name="E:\ideaProject\springcloud\06-config-consumer\src\main\resources" />
+      <recent name="E:\ideaProject\springcloud\06-config-provider\src\main\resources" />
+      <recent name="E:\ideaProject\springcloud\06-config-eurekaserver\src\main\resources" />
+      <recent name="E:\ideaProject\springcloud\00-config-server-9999\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Consumer07ViaApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -81,9 +379,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigBusConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-bus-config-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigBusConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-config-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="06-config-eurekaserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-config-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigProviderBusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-bus-config-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigProviderBusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServer9999Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-config-server-9999" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConfigServer9999Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Consumer03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="03-consumer-8080" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Consumer03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer04AlarmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-consumer-fallbackalarm-8080" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Consumer04AlarmApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,14 +448,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="Consumer07SleuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-sleuth-consumer-8080" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Consumer07SleuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer07ViaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-via-consumer-8080" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Consumer07ViaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="01-consumer-8080" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alibaba.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConsumerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,9 +518,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConsumerZuul8080Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="05-consumer-zuul-8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConsumerZuul8080Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerZuul8090Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="05-consumer-zuul-8090" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConsumerZuul8090Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerZuul8180Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="05-consumer-zuul-8180" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConsumerZuul8180Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerZuul8280Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="05-consumer-zuul-8280" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConsumerZuul8280Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerZuul8380Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="05-consumer-zuul-8380" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ConsumerZuul8380Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServerApp8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="00-eurekaserver-8000" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.EurekaServerApp8000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApp8100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-eurekaserver-8100" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.EurekaServerApp8100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApp8200" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-eurekaserver-8200" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.EurekaServerApp8200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApp8300" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-eurekaserver-8300" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.EurekaServerApp8300" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,10 +641,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Provider07KafkaApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-kafka-provider-8081" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Provider07KafkaApplication8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider07ViaApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-via-provider-8081" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Provider07ViaApplication8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="01-provider-8081" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ProviderApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul9000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-zuul-9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Zuul9000App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulFallback9000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-zuul-fallback-9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ZuulFallback9000App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulFilter9000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-zuul-filter-9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ZuulFilter9000App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGrayPublic9000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-zuul-graypublic-9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ZuulGrayPublic9000App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulRateLimit9000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="00-zuul-ratelimit-9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ZuulRateLimit9000App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulTokenBucket9000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="00-zuul-tokenbucket-9000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.ZuulTokenBucket9000App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -234,7 +731,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.ConfigEurekaServerApplication" />
+        <item itemvalue="Spring Boot.ConsumerZuul8380Application" />
+        <item itemvalue="Spring Boot.ZuulTokenBucket9000App" />
+        <item itemvalue="Spring Boot.ConsumerZuul8090Application" />
+        <item itemvalue="Spring Boot.ConsumerZuul8080Application" />
       </list>
     </recent_temporary>
   </component>
@@ -253,60 +754,119 @@
       <workItem from="1592901544190" duration="783000" />
       <workItem from="1592911729592" duration="3602000" />
       <workItem from="1593652444973" duration="638000" />
+      <workItem from="1593653163804" duration="2421000" />
+      <workItem from="1593655653537" duration="19924000" />
+      <workItem from="1593694981928" duration="3007000" />
+      <workItem from="1594001899446" duration="10930000" />
+      <workItem from="1594023072025" duration="2979000" />
+      <workItem from="1594026355809" duration="4340000" />
+      <workItem from="1594088300669" duration="4463000" />
+      <workItem from="1594107579732" duration="630000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1593656146564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593656146564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592895911700">
+    <state x="233" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594104257560">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1592895911700" />
-    <state x="748" y="47" key="FileChooserDialogImpl" timestamp="1593652919469">
+    <state x="233" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1594104257560" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1593682600477">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="748" y="47" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1593652919469" />
-    <state width="845" height="320" key="GridCell.Tab.0.bottom" timestamp="1592911585055">
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1593682600477" />
+    <state x="396" y="47" key="#xdebugger.evaluate" timestamp="1593661338159">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="845" height="320" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1592911585055" />
-    <state width="845" height="320" key="GridCell.Tab.0.center" timestamp="1592911585055">
+    <state x="396" y="47" key="#xdebugger.evaluate/0.0.1280.689@0.0.1280.689" timestamp="1593661338159" />
+    <state x="81" y="0" key="CommitChangelistDialog2" timestamp="1593657751028">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="845" height="320" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1592911585055" />
-    <state width="845" height="320" key="GridCell.Tab.0.left" timestamp="1592911585055">
+    <state x="81" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1593657751028" />
+    <state x="413" y="47" width="773" height="619" key="FileChooserDialogImpl" timestamp="1594107877447">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="845" height="320" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1592911585055" />
-    <state width="845" height="320" key="GridCell.Tab.0.right" timestamp="1592911585055">
+    <state x="413" y="47" width="773" height="619" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1594107877447" />
+    <state width="1237" height="329" key="GridCell.Tab.0.bottom" timestamp="1594105876910">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="845" height="320" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1592911585055" />
-    <state width="1237" height="34" key="GridCell.Tab.1.bottom" timestamp="1592901500603">
+    <state width="1237" height="329" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1594105876910" />
+    <state width="1237" height="329" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594105388091" />
+    <state width="1237" height="329" key="GridCell.Tab.0.center" timestamp="1594105876909">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="34" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1592901500603" />
-    <state width="1237" height="34" key="GridCell.Tab.1.center" timestamp="1592901500603">
+    <state width="1237" height="329" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1594105876909" />
+    <state width="1237" height="329" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594105388091" />
+    <state width="1237" height="329" key="GridCell.Tab.0.left" timestamp="1594105876909">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="34" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1592901500603" />
-    <state width="1237" height="34" key="GridCell.Tab.1.left" timestamp="1592901500603">
+    <state width="1237" height="329" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1594105876909" />
+    <state width="1237" height="329" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594105388090" />
+    <state width="1237" height="329" key="GridCell.Tab.0.right" timestamp="1594105876910">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="34" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1592901500603" />
-    <state width="1237" height="34" key="GridCell.Tab.1.right" timestamp="1592901500603">
+    <state width="1237" height="329" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1594105876910" />
+    <state width="1237" height="329" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594105388091" />
+    <state width="1237" height="329" key="GridCell.Tab.1.bottom" timestamp="1594105876911">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="34" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1592901500603" />
-    <state x="308" y="48" key="NewModule_or_Project.wizard" timestamp="1593652920999">
+    <state width="1237" height="329" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1594105876911" />
+    <state width="1237" height="329" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594105388092" />
+    <state width="1237" height="329" key="GridCell.Tab.1.center" timestamp="1594105876910">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="308" y="48" key="NewModule_or_Project.wizard/0.0.1280.689@0.0.1280.689" timestamp="1593652920999" />
-    <state x="-125" y="0" key="SettingsEditor" timestamp="1593653056683">
+    <state width="1237" height="329" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1594105876910" />
+    <state width="1237" height="329" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1594105388091" />
+    <state width="1237" height="329" key="GridCell.Tab.1.left" timestamp="1594105876910">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="-125" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1593653056683" />
+    <state width="1237" height="329" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1594105876910" />
+    <state width="1237" height="329" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1594105388091" />
+    <state width="1237" height="329" key="GridCell.Tab.1.right" timestamp="1594105876910">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="329" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1594105876910" />
+    <state width="1237" height="329" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1594105388091" />
+    <state x="308" y="48" key="NewModule_or_Project.wizard" timestamp="1594107878945">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="308" y="48" key="NewModule_or_Project.wizard/0.0.1280.689@0.0.1280.689" timestamp="1594107878945" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1594107884712">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1594107884712" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1593657727818">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1593657727818" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1594005168998">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1594005168998" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-bus-config-provider/src/main/java/com/alibaba/service/impl/DepartServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

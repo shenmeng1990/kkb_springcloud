@@ -13,10 +13,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 @EnableCircuitBreaker
 @SpringBootApplication
-public class Consumer04HystrixApplication {
+public class ConsumerZuul8380Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Consumer04HystrixApplication.class, args);
+		SpringApplication.run(ConsumerZuul8380Application.class, args);
 	}
 
 }

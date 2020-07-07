@@ -47,3 +47,53 @@ Hystrix-turbine 仪表盘(集群分组)
 
 服务降级报警
 04-consumer-fallbackalarm-8080
+
+Zuul 服务网关
+00-zuul-9000
+
+通过服务网关屏蔽微服务名称
+05-consumer-zuul-8080
+05-consumer-zuul-8090
+
+zuul实现负载均衡
+05-consumer-zuul-8180
+05-consumer-zuul-8280
+05-consumer-zuul-8380
+
+zuul实现服务降级
+00-zuul-fallback-9000
+
+zuulFileter实现请求过滤
+00-zuul-filter-9000
+
+zuul通过令牌桶算法实现限流
+00-zuul-tokenbucket-9000
+
+zuul实现多维限流
+00-zuul-ratelimit-9000
+
+zuul实现灰度发布的两种方式
+00-zuul-graypublic-9000
+
+spring cloud config 服务器
+00-config-server-9999 连接github或gitee，拉取相关配置文件
+06-config-eurekaserver eureka server作为config server的服务端，组装配置文件
+06-config-provider 服务提供者 作为eureka的客户端以及configserver 的客户端
+06-config-consumer 服务消费者 作为eureka的客户端以及configserver 的客户端
+
+spring cloud config bus 实时刷新配置
+06-bus-config-consumer
+06-bus-config-provider
+
+spring cloud sleuth 日志采样
+07-sleuth-provider-8081
+07-sleuth-provider-8080
+
+spring cloud sleuth 通过http方式发送日志到zipkin
+07-via-provider-8081
+07-via-consumer-8080
+
+spring cloud sleuth + kafka +zipkin
+07-kafka-provider-8081
+07-kafka-consumer-8080
+zipkin启动方式： java -DKAFKA_BOOTSTRAP_SERVERS=kafkaos1:9092 –jar zipkin.jar

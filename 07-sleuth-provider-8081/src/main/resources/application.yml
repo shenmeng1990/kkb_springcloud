@@ -1,0 +1,27 @@
+server:
+  port: 8081
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://centos:33306/springdb?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+  application:
+    name: depart-provider
+
+
+
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://localhost:8100/eureka,http://localhost:8200/eureka,http://localhost:8300/eureka
+      defaultZone: http://localhost:8000/eureka
+  instance:
+    instance-id: demo-provider-8081
+

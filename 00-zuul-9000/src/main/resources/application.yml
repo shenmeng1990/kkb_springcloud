@@ -1,0 +1,30 @@
+server:
+  port: 9000
+eureka:
+  client:
+    service-url:
+      #当前Eureka Server对外暴露的服务地址
+      defaultZone: http://localhost:8000/eureka
+spring:
+  application:
+    name: depart-zuul
+zuul:
+  routes:
+    #指定微服务的路由规则
+    # *为通配符
+    #/**可以匹配0到多级路径
+    #/*只能匹配一级路径
+    #/?只能匹配一级路径，且路径只能包含一个字符
+    depart-consumer-zuul-8080: /abc8080/**
+    depart-consumer-zuul-8090: /abc8090/**
+    depart-consumer-zuul: /abc123/**
+    #屏蔽指定微服务名称
+  #ignored-services: depart-consumer-zuul-8080
+  #屏蔽所有的微服务名称
+  ignored-services: "*"
+  #指定统一的前缀
+  prefix: /xxx
+  #屏蔽指定的URI
+  ignored-patterns: /**/list/**
+  #屏蔽指定的敏感头信息，其会将Cookie、Set-Cookie、Authorization放开
+  sensitive-headers: token
