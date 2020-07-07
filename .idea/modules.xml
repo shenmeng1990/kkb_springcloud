@@ -51,6 +51,8 @@
       <module fileurl="file://$PROJECT_DIR$/07-sleuth-provider-8081/07-sleuth-provider-8081.iml" filepath="$PROJECT_DIR$/07-sleuth-provider-8081/07-sleuth-provider-8081.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-via-consumer-8080/07-via-consumer-8080.iml" filepath="$PROJECT_DIR$/07-via-consumer-8080/07-via-consumer-8080.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-via-provider-8081/07-via-provider-8081.iml" filepath="$PROJECT_DIR$/07-via-provider-8081/07-via-provider-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-stream-kafka-8080/08-stream-kafka-8080.iml" filepath="$PROJECT_DIR$/08-stream-kafka-8080/08-stream-kafka-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-stream-kafka2-8080/08-stream-kafka2-8080.iml" filepath="$PROJECT_DIR$/08-stream-kafka2-8080/08-stream-kafka2-8080.iml" />
     </modules>
   </component>
 </project>

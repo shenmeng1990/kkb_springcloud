@@ -97,3 +97,7 @@ spring cloud sleuth + kafka +zipkin
 07-kafka-provider-8081
 07-kafka-consumer-8080
 zipkin启动方式： java -DKAFKA_BOOTSTRAP_SERVERS=kafkaos1:9092 –jar zipkin.jar
+
+springcloud Stream kafka
+08-stream-kafka-8080 创建发布一个主题的producer
+08-stream-kafka2-8080 创建多个主题的producer，以及三种实现消费者的方式

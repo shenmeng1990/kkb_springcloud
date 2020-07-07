@@ -37,6 +37,7 @@
         <module name="04-consumer-hytrix-fallbackfactory-8080" />
         <module name="04-consumer-turbine-8180" />
         <module name="00-eurekaserver-8200" />
+        <module name="08-stream-kafka-8080" />
         <module name="00-eurekaserver-8100" />
         <module name="04-consumer-hytrix-fallbackmethod-8080" />
         <module name="06-bus-config-provider" />
@@ -46,6 +47,7 @@
         <module name="00-config-server-9999" />
         <module name="07-via-provider-8081" />
         <module name="00-zuul-9000" />
+        <module name="08-stream-kafka2-8080" />
         <module name="04-consumer-turbine-8580" />
         <module name="05-consumer-zuul-8090" />
         <module name="04-consumer-turbine-8380" />
@@ -108,6 +110,8 @@
       <module name="07-sleuth-provider-8081" target="1.8" />
       <module name="07-via-consumer-8080" target="1.8" />
       <module name="07-via-provider-8081" target="1.8" />
+      <module name="08-stream-kafka-8080" target="1.8" />
+      <module name="08-stream-kafka2-8080" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -162,6 +166,8 @@
       <module name="07-sleuth-provider-8081" options="-parameters" />
       <module name="07-via-consumer-8080" options="-parameters" />
       <module name="07-via-provider-8081" options="-parameters" />
+      <module name="08-stream-kafka-8080" options="-parameters" />
+      <module name="08-stream-kafka2-8080" options="-parameters" />
     </option>
   </component>
 </project>

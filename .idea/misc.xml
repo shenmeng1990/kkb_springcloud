@@ -55,6 +55,8 @@
         <option value="$PROJECT_DIR$/07-via-consumer-8080/pom.xml" />
         <option value="$PROJECT_DIR$/07-kafka-provider-8081/pom.xml" />
         <option value="$PROJECT_DIR$/07-kafka-consumer-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/08-stream-kafka-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/08-stream-kafka2-8080/pom.xml" />
       </list>
     </option>
   </component>

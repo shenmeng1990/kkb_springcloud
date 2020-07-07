@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: kafka-producer
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: kafkaos1:9092,kafkaos2:9092,kafkaos3:9092
+          #指定系统自动创建主题
+          auto-create-topics: true
+      bindings:
+        output: #指定要输出的消息主题以及类型
+          destination: persons1
+          content-type: text/plain
+
+        customOutput: #指定要输出的消息主题以及类型
+          destination: persons2
+          content-type: text/plain
+
+        #指定绑定的输入管道，以及要消费的消费主题
+        input:
+          destination: persons1
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+
+
+

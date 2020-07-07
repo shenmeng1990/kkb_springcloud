@@ -102,6 +102,10 @@
     <file url="file://$PROJECT_DIR$/07-via-consumer-8080/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-via-provider-8081/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-via-provider-8081/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-stream-kafka-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-stream-kafka-8080/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-stream-kafka2-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-stream-kafka2-8080/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
